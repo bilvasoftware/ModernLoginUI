@@ -1,8 +1,8 @@
 ﻿<p align="center">
-  <img src="Screenshots/Banner.png" alt="Bilva Login UI Banner"/>
+  <img src="Screenshots/Banner.png" alt="ModernLoginUI Banner"/>
 </p>
 
-# 🌸 Bilva Login UI
+ # ✨🌸 ModernLoginUI
 
 <p align="center">
 
@@ -20,7 +20,7 @@ A modern, cute, and responsive **WPF Login UI** built with **C#** and **.NET 8**
 
 # 📸 Preview
 
-![Bilva Login UI](Screenshots/LoginUI.png)
+![ModernLoginUI](Screenshots/LoginUI.png)
 
 ---
 
@@ -58,7 +58,7 @@ A modern, cute, and responsive **WPF Login UI** built with **C#** and **.NET 8**
 # 📂 Project Structure
 
 ```text
-BilvaLoginUI
+ModernLoginUI
 │
 ├── Assets
 │   ├── Images
