@@ -1,8 +1,8 @@
-﻿<p align="center">
-  <img src="Screenshots/Banner.png" alt="ModernLoginUI Banner"/>
+<p align="center">
+ <img src="Screenshots/Banner.png" alt="ModernLoginUI Banner"/>
 </p>
 
- # ✨🌸 ModernLoginUI
+# 🌸 Bilva Login UI
 
 <p align="center">
 
@@ -58,7 +58,7 @@ A modern, cute, and responsive **WPF Login UI** built with **C#** and **.NET 8**
 # 📂 Project Structure
 
 ```text
-ModernLoginUI
+BilvaLoginUI
 │
 ├── Assets
 │   ├── Images
@@ -97,7 +97,7 @@ ModernLoginUI
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/bilvasoftware/Bilva-Login-UI.git
+git clone https://github.com/bilvasoftware/ModernLoginUI.git
 ```
 
 ## Open
@@ -191,7 +191,7 @@ Press **F5** or click **Start** to run the application.
 
 **Tarunika K**
 
-Developed under **Bilva Software**
+Developed and maintained by **Bilva Software**
 
 ---
 
