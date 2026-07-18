@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <!-- Project Information -->
+	  <AssemblyTitle>Bilva Login UI</AssemblyTitle>
+	  <Product>Bilva Login UI</Product>
+	  <Company>Bilva Software</Company>
+	  <Authors>Tarunika K</Authors>
+	  <Description>Modern Cute Login UI built with WPF .NET 10.</Description>
+	  <Version>1.0.0</Version>
+	  <FileVersion>1.0.0.0</FileVersion>
+	  <AssemblyVersion>1.0.0.0</AssemblyVersion>
+	  <Copyright>© 2026 Bilva Software. All Rights Reserved.</Copyright>
+
+	  <UseWPF>true</UseWPF>
+    <ApplicationIcon>BilvaLogo (1).ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Icons\Apple.png" />
+    <None Remove="Assets\Icons\Eye.png" />
+    <None Remove="Assets\Icons\EyeClosed.png" />
+    <None Remove="Assets\Icons\EyeOpen.png" />
+    <None Remove="Assets\Icons\Facebook.png" />
+    <None Remove="Assets\Icons\Google.png" />
+    <None Remove="Assets\Icons\Lock.png" />
+    <None Remove="Assets\Icons\User.png" />
+    <None Remove="Assets\Images\BilvaLogo.png" />
+    <None Remove="Assets\Images\Character.png" />
+    <None Remove="Assets\Images\CloudLeft.png" />
+    <None Remove="Assets\Images\CloudRight.png" />
+    <None Remove="Assets\Images\Flower.png" />
+    <None Remove="Assets\Images\Plant.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="BilvaLogo (1).ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controls\" />
+    <Folder Include="Animations\" />
+    <Folder Include="Screenshots\" />
+  </ItemGroup>
+
+	
+	
+	
+	
+  <ItemGroup>
+    <Resource Include="Assets\Icons\Apple.png" />
+    <Resource Include="Assets\Icons\EyeClosed.png" />
+    <Resource Include="Assets\Icons\EyeOpen.png" />
+    <Resource Include="Assets\Icons\Facebook.png" />
+    <Resource Include="Assets\Icons\Google.png" />
+    <Resource Include="Assets\Icons\Lock.png" />
+    <Resource Include="Assets\Icons\User.png" />
+    <Resource Include="Assets\Images\BilvaLogo.png" />
+    <Resource Include="Assets\Images\Character.png" />
+    <Resource Include="Assets\Images\CloudLeft.png" />
+    <Resource Include="Assets\Images\CloudRight.png" />
+    <Resource Include="Assets\Images\Flower.png" />
+    <Resource Include="Assets\Images\Plant.png" />
+  </ItemGroup>
+
+</Project>
